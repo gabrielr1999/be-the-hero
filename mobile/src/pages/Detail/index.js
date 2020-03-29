@@ -28,7 +28,7 @@ export default function Detail() {
     }
 
     function sendWhatsapp() {
-         Linking.openURL(`whatsapp://send?phone=${incident.whatsapp}&text=${message}`);
+         Linking.openURL(`whatsapp://send?phone=5581985664725&text=${message}`);
     }
 
     return (
@@ -67,7 +67,7 @@ export default function Detail() {
                 <Text style={style.heroDescription}>Entre em contato:</Text>
 
                 <View style={style.actions}>
-                    <TouchableOpacity style={style.action} conPress={sendWhatsapp}>
+                    <TouchableOpacity style={style.action} conPress={sendWhatsapp()}>
                         <Text style={style.actionText}>WhatsApp</Text>
                     </TouchableOpacity>
 
