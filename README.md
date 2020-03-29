@@ -16,7 +16,7 @@ Ao longo da semana foi desenvolvido uma aplicação do zero utilizado a stack No
 ![imagem 1](https://github.com/gabrielr1999/be-the-hero/blob/master/img/incidents.PNG)
 
 ### Aplicação Mobile 
--O usuário consegue ver todos os casos das Ongs.
+- O usuário consegue ver todos os casos das Ongs.
 ![imagem 1](https://github.com/gabrielr1999/be-the-hero/blob/master/img/home.jpg)
 - E Poderá ver mais detalhes do caso e entrar em contato com essa Ong.
 ![imagem 1](https://github.com/gabrielr1999/be-the-hero/blob/master/img/descricao.jpg)
